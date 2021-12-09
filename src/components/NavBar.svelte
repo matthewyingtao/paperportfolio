@@ -70,6 +70,7 @@
 	}
 
 	.arrow {
+		fill: hsl(var(--primary-200), 0.65);
 		opacity: 0;
 		transform: translateY(-0.75rem);
 		transition: opacity 250ms cubic-bezier(0.5, -1, 0.5, 2),
