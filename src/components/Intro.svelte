@@ -8,8 +8,8 @@
 		<h4>Front-end developer</h4>
 		<h1>Matthew Tao</h1>
 	</div>
-	<Carousel />
 	<NavBar />
+	<Carousel />
 </section>
 
 <style>
@@ -21,8 +21,8 @@
 	}
 
 	.title {
-		margin-top: max(2rem, 15vh);
-		margin-bottom: 4rem;
+		margin-top: max(2rem, 12.5vh);
+		margin-bottom: 2rem;
 	}
 
 	.title h4 {

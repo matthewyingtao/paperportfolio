@@ -43,7 +43,7 @@
 		display: flex;
 		gap: 2rem;
 		border-radius: 1rem;
-		margin-top: 4rem;
+		margin-bottom: 0.5rem;
 	}
 
 	nav a {
